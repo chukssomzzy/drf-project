@@ -1,0 +1,7 @@
+{
+  "executionEnvironment": {
+    "root": "."
+  },
+  "venvPath": "/home/vagrant/drf-project",
+  "venv": "venv"
+}
